@@ -1,0 +1,22 @@
+body{
+    background: url(../IMG/3b8ca1e8-4b9d-4ef2-bd0f-5b32dec8d5e1_des-2222-hire-developer-website201-750x498.jpg);
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+h2{
+    color: rgb(2, 2, 2);
+}
+
+
+
+button{
+    padding: 10px 50px;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 1, 1);
+    border-radius: 50px;
+    background: rgb(56, 54, 54);
+}
